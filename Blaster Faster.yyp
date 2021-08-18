@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "bf523284-1630-4b87-bd21-76d238a6245e",
+            "Value": {
+                "id": "2e8e9332-d3ae-466c-88a1-59ab7c57881b",
+                "resourcePath": "sprites\\s_laser\\s_laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c49422cb-ac2d-4bb5-9f3e-21da219e54fc",
             "Value": {
                 "id": "a31650e1-369b-462b-a367-57bdbfb57a85",
