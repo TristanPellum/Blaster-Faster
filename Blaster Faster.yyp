@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "075b34fa-8f12-46c9-a89b-df0d6aef9804",
+            "Value": {
+                "id": "9907ef19-736c-4ecd-9330-0c1adf2e63ac",
+                "resourcePath": "objects\\obj_explosion_particle\\obj_explosion_particle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "077b9ff0-1314-49eb-ad4e-c3be99f53a62",
             "Value": {
                 "id": "52905239-8d82-4b13-b60e-a43c5e60caef",
